@@ -2,7 +2,7 @@ import {useState} from 'react'
 import {shuffle} from 'lodash'
 import GameBoard from './GameBoard'
 const App = () => {
-// image files
+// image files in featured branch
   const images = [
     {
       type:"a",
