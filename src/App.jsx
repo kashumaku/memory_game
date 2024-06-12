@@ -2,6 +2,7 @@ import {useState} from 'react'
 import {shuffle} from 'lodash'
 import GameBoard from './GameBoard'
 const App = () => {
+// image files
   const images = [
     {
       type:"a",
